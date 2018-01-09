@@ -6,7 +6,7 @@ Issue
 
 `ReactDOM.render(...)` return null
 
-Reproduct Steps
+Reproduce Steps
 ---------------
 
 - `yarn`
