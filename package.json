@@ -1,0 +1,13 @@
+{
+  "name": "bisheng-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "bisheng start"
+  },
+  "devDependencies": {
+    "bisheng": "^0.28.2",
+    "bisheng-theme-ui": "^0.0.2"
+  }
+}
